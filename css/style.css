@@ -1,0 +1,34 @@
+ul, li{
+    line-clamp: none;
+
+}
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+
+}
+ .collapse .nav-item .nav-link{
+    color: black
+}
+
+.collapse .nav-item :hover{
+background-color: rgba(0, 255, 234, 0.884);
+}
+.about_content{
+    line-height: 30px;
+}
+.gly{
+    margin-top: 10px;
+    box-shadow:-webkit-box-shadow: -4px -1px 13px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -4px -1px 13px 0px rgba(0,0,0,0.75);
+    box-shadow: -4px -1px 13px 0px rgba(0,0,0,0.75); ;
+}
+.footer{
+    background-color: turquoise;
+    margin-top: 8px;
+    padding-top: 4px;
+}
